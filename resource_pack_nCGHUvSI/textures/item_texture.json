@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "my_item_1": { "textures": "textures/items/1" },
+    "my_item_2": { "textures": "textures/items/2" },
+    "my_item_3": { "textures": "textures/items/3" },
+    "my_item_4": { "textures": "textures/items/4" },
+    "my_item_5": { "textures": "textures/items/5" },
+    "my_item_6": { "textures": "textures/items/6" },
+    "my_item_7": { "textures": "textures/items/7" },
+    "my_item_8": { "textures": "textures/items/8" },
+    "my_sword": { "textures": "textures/items/sword" }
+  }
+}

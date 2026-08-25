@@ -1,0 +1,23 @@
+{
+  "format_version": "1.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sticksword:compressed_stick_7"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "sticksword:item_6"
+      }
+    },
+    "result": {
+      "item": "sticksword:item_7",
+      "count": 1
+    }
+  }
+}

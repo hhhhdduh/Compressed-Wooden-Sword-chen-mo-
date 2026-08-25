@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sticksword:item_4",
+      "category": "items",
+      "register_to_create_menu": true
+    },
+    "components": {
+      "minecraft:icon": "my_item_4",
+      "minecraft:max_stack_size": 64,
+      "netease:fuel": {
+        "duration": 540.0
+      }
+    }
+  }
+}

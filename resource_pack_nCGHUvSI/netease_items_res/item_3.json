@@ -1,0 +1,11 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sticksword:item_3"
+    },
+    "components": {
+      "minecraft:icon": "my_item_3"
+    }
+  }
+}
